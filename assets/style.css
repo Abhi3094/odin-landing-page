@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+    font-family: 'Roboto',sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header, 
+.promo-frame, 
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.cards-container {
+    color: #acadb0;
+    text-align: center;
+}
+
+.text-area {
+    max-width: 450px;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.sub-text {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.btn, .cta-box{
+    background-color: #3882f6;
+}
+
+.cta-box {
+    color: #F9FAF8;
+}
+
+.btn {
+    color: #E5E7EB;
+    border-radius: 6px;
+
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.promo-signup {
+    border: none;
+}
+
+.cta-signup {
+    border-color: #E5E7EB;
+}
+
+.info-heading {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.class-quotes {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic
+}
+
+.legend {
+    font-weight: 700;
+}
